@@ -189,7 +189,7 @@ h1 {
     opacity: 0.65;
 }
 .btn:not(:disabled):not(.disabled) {
-    cursor: pointer;
+    cursor: pointer
 }
 .btn-outline-light {
     color: #f8f9fa;
