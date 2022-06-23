@@ -33,6 +33,9 @@
 .fa-twitter:before {
     content: "\f099";
 }
+.fa-spotify:before {
+    content: "\f1bc";
+}
 @font-face {
     font-family: "Font Awesome 5 Brands";
     font-style: normal;
