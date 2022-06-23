@@ -2,8 +2,6 @@
 
 ## Preview:
 
-![screenshot-preview](https://user-images.githubusercontent.com/30091032/126801766-520f92f0-2922-4e5d-a588-30aa133d500c.png)
-
 ## Usage
 
 - Fork this repository
