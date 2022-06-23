@@ -1,8 +1,5 @@
 ## [Chidvi Doddi's Personal Website](https://doddic.github.io/personal-website/)
 
-## Preview:
-<img width="884" alt="Screen Shot 2022-06-22 at 10 46 23 PM" src="https://user-images.githubusercontent.com/45871604/175224301-c30ae2df-2371-4dc9-a2da-38d9becfedef.png">
-
 ## Usage
 
 1. Fork this repository
