@@ -1,4 +1,4 @@
-## [Chidvi Doddi's Personal Website](https://doddic.github.io/personal-website/)
+## [Chidvi Doddi's Personal Website](https://doddic.github.io/my-social-footprint/)
 
 ## Usage
 
