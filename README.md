@@ -1,5 +1,10 @@
 ## [Chidvi Doddi's Social Footprint](https://doddic.github.io/my-social-footprint/)
 
+## QR Code
+
+![Image](https://user-images.githubusercontent.com/45871604/175460298-0494b9f0-9880-440f-a7f0-cd4bd20c804a.png)
+
+
 ## Usage
 
 1. Fork this repository
