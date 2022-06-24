@@ -33,6 +33,9 @@
 .fa-spotify:before {
     content: "\f1bc";
 }
+.fa-imdb:before {
+    content: "\f2d8";
+}
 @font-face {
     font-family: "Font Awesome 5 Brands";
     font-style: normal;
