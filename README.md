@@ -2,7 +2,7 @@
 
 ## Website QR Code
 
-<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://user-images.githubusercontent.com/45871604/175460298-0494b9f0-9880-440f-a7f0-cd4bd20c804a.png)" width="150" height="280">
+![Image](https://user-images.githubusercontent.com/45871604/175460298-0494b9f0-9880-440f-a7f0-cd4bd20c804a.png)
 
 ## Usage
 
